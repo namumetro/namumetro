@@ -79,4 +79,6 @@ header {
 }
 .gray {
 	color: gray;
+	font-family: paybooc-Bold, sans-serif;
+	text-align:center;
 } 

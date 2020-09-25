@@ -1,0 +1,79 @@
+@font-face { 
+	font-family: 'paybooc-Bold'; 
+	src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_20-07@1.0/paybooc-Bold.woff') format('woff'); 
+	font-weight: normal; font-style: normal; 
+}
+@font-face {
+	font-family: 'paybooc-ExtraBold'; 
+	src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_20-07@1.0/paybooc-ExtraBold.woff') format('woff'); 
+	font-weight: normal; 
+	font-style: normal; 
+}
+body {
+	font-family: paybooc-Bold, sans-serif;
+}
+a:link {
+	color: rgb(146, 208, 80);
+	text-decoration: none;
+}
+a:visited {
+	color: rgb(146, 208, 80);
+	text-decoration: none;
+}
+a:active {
+	color: rgb(146, 208, 80);
+	text-decoration: none;
+}
+a:hover {
+	color: rgb(146, 208, 80);
+	text-decoration: underline;
+}
+ul{
+  margin:0;
+  padding:0;
+  list-style: none;
+}
+ul li{
+  cursor:pointer;
+  position:relative;
+  padding:12px 8px 12px 40px;
+  background: #eee;
+  font-size:18px;
+  transition: 0.2s;
+}
+ul li:nth-child(odd) {
+  background-color:#f9f9f9;
+}
+ul li:hover {
+  background-color:#ddd;
+}
+h2 {
+	font-family: paybooc-ExtraBold, sans-serif;
+	color: rgb(146, 208, 80);
+	text-align: center;
+}
+.headerDiv {
+	float:right;
+	margin-right: 5rem;
+	width:100px;
+}
+header {
+	margin: 10px 10px 10px 10px;
+}
+#logo {
+	margin-left: 2.5rem;
+	height: 17.5%;
+	width: 17.5%;
+}
+.blogLink {
+	text-align: left;
+	float:left;
+}
+.loginLink {
+	text-align:right;
+	float: right;
+}
+.page {
+	margin-left:5rem;
+	margin-right:5rem;
+}

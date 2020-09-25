@@ -11,6 +11,7 @@
 }
 body {
 	font-family: paybooc-Bold, sans-serif;
+	text-align: center;
 }
 a:link {
 	color: rgb(146, 208, 80);
@@ -82,5 +83,4 @@ header {
 } 
 small{
 	font-family: paybooc-Bold, sans-serif;
-	text-align:center;
 }

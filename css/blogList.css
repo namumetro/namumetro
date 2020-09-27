@@ -67,12 +67,8 @@ header {
 	width: 17.5%;
 }
 .blogLink {
-	text-align: left;
-	float:left;
-}
-.loginLink {
-	text-align:right;
-	float: right;
+	text-align: right;
+	float:right;
 }
 .page {
 	margin-left:5rem;

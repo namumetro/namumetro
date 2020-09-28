@@ -65,6 +65,7 @@ header {
 	margin-left: 2.5rem;
 	height: 17.5%;
 	width: 17.5%;
+	float:left;
 }
 .blogLink {
 	text-align: right;

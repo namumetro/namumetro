@@ -80,8 +80,6 @@ header {
 small{
 	font-family: paybooc-Bold, sans-serif;
 }
-pre{
-	font-family: paybooc-Bold, sans-serif;
-	text-align:left;
+p {
+	color: black;
 }
-

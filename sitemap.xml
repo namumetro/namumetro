@@ -8,26 +8,26 @@
 
 <url>
    <loc>https://namumetro.github.io/namumetro/</loc>
-   <lastmod>2020-09-29T02:46:50+00:00</lastmod>
-   <changefreq>monthly</changefreq>
+   <lastmod>2020-09-29T04:53:18+00:00</lastmod>
+   <changefreq>always</changefreq>
    <priority>1.0000</priority>
 </url>
 <url>
    <loc>https://namumetro.github.io/namumetro/index.html</loc>
-   <lastmod>2020-09-29T02:46:50+00:00</lastmod>
-   <changefreq>monthly</changefreq>
+   <lastmod>2020-09-29T04:53:18+00:00</lastmod>
+   <changefreq>always</changefreq>
    <priority>0.8000</priority>
 </url>
 <url>
    <loc>https://namumetro.github.io/namumetro/blogList.html</loc>
-   <lastmod>2020-09-29T02:46:50+00:00</lastmod>
-   <changefreq>monthly</changefreq>
+   <lastmod>2020-09-29T04:53:18+00:00</lastmod>
+   <changefreq>always</changefreq>
    <priority>0.8000</priority>
 </url>
 <url>
    <loc>https://namumetro.github.io/namumetro/blog1.html</loc>
-   <lastmod>2020-09-29T02:46:50+00:00</lastmod>
-   <changefreq>monthly</changefreq>
+   <lastmod>2020-09-29T04:53:18+00:00</lastmod>
+   <changefreq>always</changefreq>
    <priority>0.6400</priority>
 </url>
 </urlset>

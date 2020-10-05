@@ -60,6 +60,7 @@ h2 {
 }
 header {
 	margin: 10px 10px 10px 10px;
+	display:inline;
 }
 #logo {
 	margin-left: 2.5rem;

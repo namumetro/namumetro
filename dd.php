@@ -4,8 +4,6 @@
         <meta charset="utf-8">
     </head>
     <body>
-        <script language='php'>
-          echo '<p>Hello World!</p>';
-        </script>
+        <?php echo 'Hello'; ?>
     </body>
 </html>

@@ -73,6 +73,9 @@ header {
 #logo, .blogLink {
 	display: inline;
 }
+#logo, .blogLink {
+	display: inline;
+}
 .page {
 	margin-left:5rem;
 	margin-right:5rem;

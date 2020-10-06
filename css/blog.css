@@ -60,6 +60,7 @@ h2 {
 }
 header {
 	margin: 10px 10px 10px 10px;
+	display:flex;
 }
 #logo {
 	margin-left: 2.5rem;
@@ -69,12 +70,6 @@ header {
 .blogLink {
 	text-align: right;
 	float:right;
-}
-#logo, .blogLink {
-	display: inline;
-}
-#logo, .blogLink {
-	display: inline;
 }
 .page {
 	margin-left:5rem;

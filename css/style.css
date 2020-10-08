@@ -73,3 +73,7 @@ b {
 address {
 	font-style: normal;
 }
+#wrap {
+	width:100%;
+	margin:0 auto;
+}

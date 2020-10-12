@@ -42,7 +42,7 @@ header {
 	height: 17.5%;
 	width: 17.5%;
 }
-.blogLink {
+.blogLink, .loginLink {
 	text-align: right;
 }
 .page {

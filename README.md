@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 안녕하세요?
+
 저는 푸른나무입니다.
+
 만나서 반가워요~!

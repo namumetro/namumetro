@@ -9,14 +9,13 @@ extract($_POST);
 
 $encrypted_pass = hash("sha256", $wser_pass);
 
-echo $user_id. '<br />';
-echo $user_pass. '<br />';
-echo $user_pass2. '<br />';
-echo $user_email. '<br />';
-
 $q = "INSERT INTO ap_member ( id, pw, email ) VALUES ( '$user_id', '$encryped_pass', '$user_email' )";
 
 $mysqli->query( $q);
 
 $mysqli->close();
+
+header("Location: http://mydomain.com/member/signup_done.php");
+
+exit();
 ?> 
